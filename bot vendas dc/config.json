@@ -1,0 +1,21 @@
+{
+    "TOKEN":"TOKEN DO BOT/APLICAÇÃO : https://discord.com/developers/applications",
+    "prefix":"&",
+    "access_token":"API MERCADO PAGO",
+    "nomebot":"Temporal Store",
+    "canalvoz":"ID CANAL ONDE O BOT FICARÁ ( CANAL TEM QUE SER DE VOZ )",
+    "cor":"#000000",
+    "botao":"SECONDARY",
+    "logpublica":"ID DO CANAL ONDE MOSTRARA PUBLICAMENTE QUEM COMPROU",
+    "canallogs":"ID DO CANAL DE LOGS PRIVADA P/ADMS",
+    "catecarrinho":"ID DA CATEGORIA ONDE SERÁ ABERTO O CARRINHO DE COMPRAS",
+    "cargovip":"ID DO CARGO QUE O COMPRADOR RECEBERÁ AO REALIZAR UMA COMPRA",
+    "fotoembed":"https://cdn.discordapp.com/attachments/988898888473792532/1050220925875916860/standard.giff"
+}
+
+//PARA PEGAR O ID DOS CANAIS/CATEGORIAS ETC... VOCÊ TEM QUE ATIVAR A OPÇÃO DESENVOLVEDOR DO DISCORD !
+//POR TEMPORAL STORE, AGRADECEMOS POR NOS ESCOLHER ! 
+//https://discord.gg/EXT56Nhegu
+//https://discord.gg/EXT56Nhegu
+//https://discord.gg/EXT56Nhegu
+//https://discord.gg/EXT56Nhegu
